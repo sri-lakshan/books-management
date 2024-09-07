@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Lakshan\\source\\repos\\LibrarySystem\\LibrarySystem.Server\\..\\librarysystem.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

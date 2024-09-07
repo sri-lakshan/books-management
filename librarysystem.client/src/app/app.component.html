@@ -1,0 +1,53 @@
+<div class="container">
+  <h1>Library Management System</h1>
+  <div class="search-container">
+    <input type="text" id="searchBar" placeholder="Search for books..." #someBook>
+    <button class="searchBtn" (click)="searchBooks(someBook.value)">Search</button>
+  </div>
+  <div *ngIf="searchResults" class="search-results">
+    <h3>Search Results:</h3>
+    <p>{{ searchResults }}</p>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th>Book ID</th>
+        <th>Title</th>
+        <th>Year of Release</th>
+        <th>Author</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let book of books">
+        <td>{{ book.id }}</td>
+        <td>{{ book.title }}</td>
+        <td>{{ book.yearOfRelease }}</td>
+        <td>{{ book.author }}</td>
+        <td><button class="borrowBtn" (click)="borrowBook(book.id)">Borrow Book</button></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="container" *ngIf="borrowedBooks">
+    <h2>Borrowed Books</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Book ID</th>
+          <th>Title</th>
+          <th>Year of Release</th>
+          <th>Author</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let book of borrowedBooks">
+          <td>{{ book.id }}</td>
+          <td>{{ book.title }}</td>
+          <td>{{ book.yearOfRelease }}</td>
+          <td>{{ book.author }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

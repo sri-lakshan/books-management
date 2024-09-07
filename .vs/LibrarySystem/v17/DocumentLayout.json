@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lakshan\\source\\repos\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B825EB7E-4188-4DDA-A8B5-D2BC95A0D104}|LibrarySystem.Server\\LibrarySystem.Server.csproj|c:\\users\\lakshan\\source\\repos\\librarysystem\\librarysystem.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B825EB7E-4188-4DDA-A8B5-D2BC95A0D104}|LibrarySystem.Server\\LibrarySystem.Server.csproj|solutionrelative:librarysystem.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DB5EB9-76D8-4DF9-BD15-064F7341CD00}|librarysystem.client\\librarysystem.client.esproj|c:\\users\\lakshan\\source\\repos\\librarysystem\\librarysystem.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65DB5EB9-76D8-4DF9-BD15-064F7341CD00}|librarysystem.client\\librarysystem.client.esproj|solutionrelative:librarysystem.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65DB5EB9-76D8-4DF9-BD15-064F7341CD00}|librarysystem.client\\librarysystem.client.esproj|c:\\users\\lakshan\\source\\repos\\librarysystem\\librarysystem.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{65DB5EB9-76D8-4DF9-BD15-064F7341CD00}|librarysystem.client\\librarysystem.client.esproj|solutionrelative:librarysystem.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Lakshan\\source\\repos\\LibrarySystem\\LibrarySystem.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Lakshan\\source\\repos\\LibrarySystem\\LibrarySystem.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LibrarySystem.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T06:08:54.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\Lakshan\\source\\repos\\LibrarySystem\\librarysystem.client\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "librarysystem.client\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\Lakshan\\source\\repos\\LibrarySystem\\librarysystem.client\\src\\app\\app.component.css",
+              "RelativeToolTip": "librarysystem.client\\src\\app\\app.component.css",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAH0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-18T18:28:47.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Lakshan\\source\\repos\\LibrarySystem\\librarysystem.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "librarysystem.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Lakshan\\source\\repos\\LibrarySystem\\librarysystem.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "librarysystem.client\\src\\app\\app.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-17T10:19:30.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
